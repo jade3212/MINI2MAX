@@ -14,7 +14,8 @@ const CONFIG = {
 
   phones: [
     { label: "98847 46452", tel: "tel:+919884746452" },
-    { label: "70926 00404", tel: "tel:+917092600404" }
+    { label: "70926 00404", tel: "tel:+917092600404" },
+    { label: "86673 05008", tel: "tel:+918667305008" }
   ],
   whatsapp: { label: "+91 98847 46452", link: "https://wa.me/919884746452" },
   instagram: [
