@@ -23,7 +23,7 @@ const CONFIG = {
   ],
   maps: {
     avadi: "https://share.google/UzKYLdNS9zgzcPsL4",
-    veppampattu: "https://share.google/XHjRsDds9cBxjZMme"
+    veppampattu: "https://maps.app.goo.gl/FCefYruTGL7VG1gb8?g_st=ic"
   },
   hours: {
     weekdays: "Mon\u2013Sat \u00b7 5:30 AM \u2013 10:00 PM",
